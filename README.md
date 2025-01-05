@@ -1,8 +1,6 @@
 # privacy-policy
 Privacy Policy for Thailand Stock App
 
-Effective Date: [Insert Date]
-
 1. Introduction
 
 Welcome to Thailand Stock App ("we", "our", "us"). We are committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application (the "App").
@@ -39,6 +37,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: [Insert Contact Email]
-
-Address: [Insert Physical Address]
+Email: lapsejhon@gmail.com
