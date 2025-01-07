@@ -3,7 +3,7 @@ Privacy Policy for Thailand House Coding
 
 1. Introduction
 
-Welcome to Thailand Stock App ("we", "our", "us"). We are committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application (the "App").
+Welcome to Thailand House Coding ("we", "our", "us"). We are committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application (the "App").
 
 2. Information We Collect
 
