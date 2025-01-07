@@ -1,5 +1,5 @@
 # privacy-policy
-Privacy Policy for Thailand Stock App
+Privacy Policy for Thailand House Coding
 
 1. Introduction
 
