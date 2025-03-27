@@ -1,40 +1,38 @@
-# privacy-policy
 Privacy Policy for Thailand House Coding
 
-1. Introduction
+Introduction
+Welcome to Thailand House Coding ("we," "our," "us"). We value your privacy and are committed to ensuring that your information remains secure. This Privacy Policy explains how we handle data when you use our mobile application (the "App").
 
-Welcome to Thailand House Coding ("we", "our", "us"). We are committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our mobile application (the "App").
+1. Information We Collect
+We do not collect, store, or process any personal information from users. Our App does not require account registration, nor does it request personal data such as names, email addresses, or phone numbers.
 
-2. Information We Collect
+2. How We Use Your Information
+Since we do not collect personal data, we do not use or process any user information for any purpose.
 
-We do not collect any personal information from users. You can use our App without providing any personal data or registering an account.
+3. Third-Party Services
+Our App integrates third-party services, including:
 
-3. Use of Information
+Supabase – Used for backend functionality, such as database management.
 
-Since we do not collect any personal data, we do not use or process any personal information.
+OneSignal – Used for push notifications.
 
-4. Sharing Your Information
+These services may process limited data to function correctly, such as device identifiers for sending notifications. However, we do not collect or store any personal information through these services. Please refer to their respective privacy policies for more details:
 
-As we do not collect any personal information, we do not share any personal data with third parties.
+Supabase: https://supabase.com/privacy
 
-5. Data Security
+OneSignal: https://onesignal.com/privacy_policy
 
-We are committed to protecting your privacy. Since we do not collect or store any personal data, there are no data security concerns related to personal information.
+4. Data Security
+We prioritize security and take appropriate measures to ensure our App is safe. However, as we do not collect or store personal data, there are no security risks related to personal information on our end.
 
-6. Your Data Protection Rights
+5. Your Data Protection Rights
+Since our App does not collect any personal information, there are no data protection rights applicable regarding personal data. However, if you have concerns about data processed by third-party services (e.g., push notifications), you may refer to their respective privacy policies.
 
-As we do not collect any personal information, there are no data protection rights to exercise in relation to personal data.
+6. Cookies and Tracking Technologies
+Our App does not use cookies, tracking technologies, or any form of analytics to monitor user behavior.
 
-7. Cookies and Tracking Technologies
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted within the App or on our website. We encourage users to review this policy periodically for updates.
 
-We do not use cookies or any tracking technologies in our App.
-
-8. Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
-
-9. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-Email: lapsejhon@gmail.com
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, you may contact us at:
