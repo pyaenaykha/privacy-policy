@@ -36,3 +36,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 8. Contact Us
 If you have any questions or concerns about this Privacy Policy, you may contact us at:
+
+lapsejhon@gmail.com
